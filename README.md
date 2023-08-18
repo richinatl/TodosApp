@@ -16,7 +16,8 @@
 
   <br>
 
- ![todoApp](https://github.com/richinatl/TodosApp/assets/95508564/3e10ef42-b0fb-4fe5-b01e-c2179f1698be)
+![todoAppUpdated](https://github.com/richinatl/TodosApp/assets/95508564/d6febfba-34f0-4329-b23c-06e1512f1636)
+
 
 
   <br>
